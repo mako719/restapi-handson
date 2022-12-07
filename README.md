@@ -17,7 +17,7 @@
 
 動作確認
 
-![スクリーンショット 2022-12-05 16 03 56](https://user-images.githubusercontent.com/118739580/205588194-3a26ae42-f15b-4ff0-84d4-a675ba60599b.jpg)
+![スクリーンショット 2022-12-07 15 15 47](https://user-images.githubusercontent.com/118739580/206104175-99a83234-279e-4355-9654-c65990ab42fb.jpg)
 
 # PATCHリクエスト
 
@@ -25,4 +25,5 @@
 
 動作確認
 
-<img width="1021" alt="スクリーンショット 2022-12-05 16 40 46" src="https://user-images.githubusercontent.com/118739580/205588460-fdc8418e-3b39-497e-b231-06b6f28a16f7.PNG">
+![スクリーンショット 2022-12-07 15 15 59](https://user-images.githubusercontent.com/118739580/206104308-7cd2d65b-61e5-4f53-a935-201707d7495e.jpg)
+
